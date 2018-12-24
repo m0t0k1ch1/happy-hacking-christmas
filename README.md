@@ -7,7 +7,7 @@ Happy Hacking Christmas 🎅
 You have to
 
 - install [yarn](https://github.com/yarnpkg/yarn)
-- replace `account` and `privkey` in `scripts/sample.js` with your own values
+- replace `address` and `privkey` in `scripts/sample.js` with your own values
 
 in advance.
 

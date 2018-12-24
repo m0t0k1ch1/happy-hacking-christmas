@@ -23,7 +23,7 @@ var santaClausTokenABI     = JSON.parse(fs.readFileSync('./build/contracts/Santa
 var santaClausTokenAddress = '0xA9B76b79E3254d7835401A8B43aF2FaC93A83F2D';
 var santaClausToken        = new web3.eth.Contract(santaClausTokenABI, santaClausTokenAddress);
 
-var account = 'your address';
+var address = 'your address';
 var privkey = 'your privkey';
 
 sample();
@@ -33,7 +33,7 @@ async function sample() {
 
   var balance
 
-  balance = await letter.methods.balanceOf(account).call();
+  balance = await letter.methods.balanceOf(address).call();
   console.log(balance);
 
   await web3.eth.sendTransaction({
@@ -43,15 +43,15 @@ async function sample() {
     gas: 50000,
   });
 
-  balance = await letter.methods.balanceOf(account).call();
+  balance = await letter.methods.balanceOf(address).call();
   console.log(balance);
 
   await letter.methods.discard().send({
-    from: account,
+    from: address,
     gas: 50000,
   });
 
-  balance = await letter.methods.balanceOf(account).call();
+  balance = await letter.methods.balanceOf(address).call();
   console.log(balance);
 
   web3.currentProvider.connection.close();
