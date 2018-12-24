@@ -2,7 +2,7 @@
 
 Happy Hacking Christmas 🎅
 
-## sample script usage
+## How to use the sample script
 
 You have to
 
