@@ -1,6 +1,6 @@
 # happy-hacking-christmas
 
-Happy Hacking Christmas 🎅
+[Happy Hacking Christmas](https://m0t0k1ch1st0ry.com/blog/2018/12/25/happy-hacking-christmas) 🎅
 
 ## How to use the sample script
 
