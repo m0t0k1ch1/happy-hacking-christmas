@@ -24,7 +24,7 @@ function requestToken() public {
 - 🎅 SantaClaus：[0x05d9cbee05e82d492ad66842fc7c0cb363b384ea](https://ropsten.etherscan.io/address/0x05d9cbee05e82d492ad66842fc7c0cb363b384ea#code)
 - 💎 SantaClausToken：[0xa9b76b79e3254d7835401a8b43af2fac93a83f2d](https://ropsten.etherscan.io/address/0xa9b76b79e3254d7835401a8b43af2fac93a83f2d#code)
 
-## How to use the sample script
+## How to use the sample script for the challengers
 
 You have to
 
