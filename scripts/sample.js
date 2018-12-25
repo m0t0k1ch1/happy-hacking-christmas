@@ -31,7 +31,7 @@ sample();
 async function sample() {
   web3.eth.accounts.wallet.add(privkey);
 
-  var balance
+  var balance;
 
   balance = await letter.methods.balanceOf(address).call();
   console.log(balance);
