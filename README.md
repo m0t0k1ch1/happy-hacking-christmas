@@ -29,7 +29,7 @@ function requestToken() public {
 You have to
 
 - install [yarn](https://github.com/yarnpkg/yarn)
-- replace `address` and `privkey` in `scripts/sample.js` with your own values
+- replace the variables `address` and `privkey` in `scripts/sample.js` with your own values
 
 in advance.
 
