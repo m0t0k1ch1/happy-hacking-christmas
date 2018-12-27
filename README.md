@@ -24,6 +24,12 @@ function requestToken() public {
 - 🎅 SantaClaus：[0x05d9cbee05e82d492ad66842fc7c0cb363b384ea](https://ropsten.etherscan.io/address/0x05d9cbee05e82d492ad66842fc7c0cb363b384ea#code)
 - 💎 SantaClausToken：[0xa9b76b79e3254d7835401a8b43af2fac93a83f2d](https://ropsten.etherscan.io/address/0xa9b76b79e3254d7835401a8b43af2fac93a83f2d#code)
 
+## To SCT holders
+
+If you're a SCT holder, you can register your name in the following contract!
+
+[0x5a8b024f544ed745afc4d980e403c5e0967e62df](https://ropsten.etherscan.io/address/0x5a8b024f544ed745afc4d980e403c5e0967e62df#code)
+
 ## How to use the sample script for the challengers
 
 You have to
